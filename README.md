@@ -12,14 +12,14 @@ I am open to discussion or collaboration. Please feel free to reach out to me vi
 
 <table style="margin-left:auto; margin-right:auto;">
   <tr>
-    <td><img src="https://github.com/jfzhang95/assets/blob/main/mvp_demo.gif?raw=true" height=145px width=280px></td>
-    <td><img src="https://github.com/jfzhang95/assets/blob/main/bodytracking_demo.gif?raw=true" height=145px width=280px></td>
-    <td><img src="https://github.com/jfzhang95/assets/blob/main/pv3d_demo.gif?raw=true" height=145px width=280px></td>
+    <td><img src="https://github.com/jfzhang95/assets/blob/main/mvp_demo.gif?raw=true" height=135px width=260px></td>
+    <td><img src="https://github.com/jfzhang95/assets/blob/main/bodytracking_demo.gif?raw=true" height=135px width=260px></td>
+    <td><img src="https://github.com/jfzhang95/assets/blob/main/pv3d_demo.gif?raw=true" height=135px width=260px></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/jfzhang95/assets/blob/main/pose_demo.gif?raw=true" height=145px width=280px></td>
-    <td><img src="https://github.com/jfzhang95/assets/blob/main/avatargen_multiview.gif?raw=true" height=145px width=280px></td>
-    <td><img src="https://github.com/jfzhang95/assets/blob/main/avatargen_animation.gif?raw=true" height=145px width=280px></td>
+    <td><img src="https://github.com/jfzhang95/assets/blob/main/pose_demo.gif?raw=true" height=135px width=260px></td>
+    <td><img src="https://github.com/jfzhang95/assets/blob/main/avatargen_multiview.gif?raw=true" height=135px width=260px></td>
+    <td><img src="https://github.com/jfzhang95/assets/blob/main/avatargen_animation.gif?raw=true" height=135px width=260px></td>
   </tr>
 </table>
 
