@@ -9,17 +9,19 @@ My research focuses on **Computer Vision and Graphics**, especially in **3D Huma
 
 I am open to discussion or collaboration. Please feel free to reach out to me via <a href="mailto:jf.zhang958@outlook.com?subject=intention of cooperation from [name]-[title]-[institute]">Email</a>
 
+<b><font color="#FF0000">I'm expected to graduate in 2023 and looking for a researcher/engineer position now. Please feel free to reach out if you have potential job opportunities.</font></b>
+
 
 <table style="margin-left:auto; margin-right:auto;">
   <tr>
-    <td><img src="https://github.com/jfzhang95/assets/blob/main/mvp_demo.gif?raw=true" height=135px width=260px></td>
-    <td><img src="https://github.com/jfzhang95/assets/blob/main/bodytracking_demo.gif?raw=true" height=135px width=260px></td>
-    <td><img src="https://github.com/jfzhang95/assets/blob/main/pv3d_demo.gif?raw=true" height=135px width=260px></td>
+    <td><img src="https://github.com/jfzhang95/assets/blob/main/mvp_demo.gif?raw=true" height=135px width=255px></td>
+    <td><img src="https://github.com/jfzhang95/assets/blob/main/bodytracking_demo.gif?raw=true" height=135px width=255px></td>
+    <td><img src="https://github.com/jfzhang95/assets/blob/main/pv3d_demo.gif?raw=true" height=135px width=255px></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/jfzhang95/assets/blob/main/pose_demo.gif?raw=true" height=135px width=260px></td>
-    <td><img src="https://github.com/jfzhang95/assets/blob/main/avatargen_multiview.gif?raw=true" height=135px width=260px></td>
-    <td><img src="https://github.com/jfzhang95/assets/blob/main/avatargen_animation.gif?raw=true" height=135px width=260px></td>
+    <td><img src="https://github.com/jfzhang95/assets/blob/main/pose_demo.gif?raw=true" height=135px width=255px></td>
+    <td><img src="https://github.com/jfzhang95/assets/blob/main/avatargen_multiview.gif?raw=true" height=135px width=255px></td>
+    <td><img src="https://github.com/jfzhang95/assets/blob/main/avatargen_animation.gif?raw=true" height=135px width=255px></td>
   </tr>
 </table>
 
