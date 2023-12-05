@@ -3,13 +3,9 @@
 <!-- [![](https://img.shields.io/twitter/follow/yuliangxiu?style=for-the-badge&logo=Twitter&labelColor=00acee&logoColor=white&color=2bc4ff)](https://twitter.com/yuliangxiu)
 [![](https://img.shields.io/youtube/channel/views/UCicL0Co86tGbzoV2heWiEaA?logo=youtube&labelColor=ce4630&style=for-the-badge)](https://www.youtube.com/channel/UCicL0Co86tGbzoV2heWiEaA) -->
 
-Hi there, I am a Final-Year Ph.D. student at National University of Singapore. During my PhD study, I spent wonderful time at Meta Reality Labs, TikTok and Sea AI Lab.
+Hi there, I am a Research Scientist at ByteDance, working on 3D generative models and human avatar generation/animation. I received my PhD from National University of Singapore. During my PhD study, I spent wonderful time at Meta Reality Labs, TikTok and Sea AI Lab.
 
-My research focuses on **Computer Vision and Graphics**, especially in **3D Human Body Tracking and Digitalization** as well as **3D Generative Models**.
-
-I am open to discussion or collaboration. Please feel free to reach out to me via <a href="mailto:jf.zhang958@outlook.com?subject=intention of cooperation from [name]-[title]-[institute]">Email</a>
-
-<b><font color="#FF0000">I'm expected to graduate in 2023 and looking for a researcher/engineer position now. Please feel free to reach out if you have potential job opportunities.</font></b>
+<b><font color="#FF0000">ByteDance internship/University collaboration: feel free to <a href="mailto:jf.zhang958@outlook.com?subject=intention of cooperation from [name]-[title]-[institute]">email</a> me, if you share similar interests in 3D content creation from images, videos and texts, as well as human avatar generation/animation!</font></b>
 
 
 <table style="margin-left:auto; margin-right:auto;">
@@ -24,5 +20,3 @@ I am open to discussion or collaboration. Please feel free to reach out to me vi
     <td><img src="https://github.com/jfzhang95/assets/blob/main/avatargen_animation.gif?raw=true" height=135px width=255px></td>
   </tr>
 </table>
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jfzhang95.visitor-badge&left_color=red&right_color=green&left_text=Hi%20Visitors)
